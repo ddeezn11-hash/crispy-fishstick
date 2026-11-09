@@ -1,0 +1,10 @@
+{
+  "name": "blockyard-multiplayer",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "note": "Reference manifest only. npm does not read package.txt; install with npm install --no-save --package-lock=false ws and start with node --input-type=module < server.txt.",
+  "dependencies": {
+    "ws": "^8.22.2"
+  }
+}
